@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Jay",
-  description: "Simple full-screen meme viewer",
+  description: "ลองเปิดดู",
 };
 
 export default function RootLayout({
